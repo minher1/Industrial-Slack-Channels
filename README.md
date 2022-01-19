@@ -13,6 +13,10 @@
     - sko-general
     - sko-news-and-alerts
     - technology-tech-sales
-    - 
-- ### 
-
+    - client-eng-architects
+    - client-eng-business-transformation-consultants
+    - client-eng-data-ai
+    - client-eng-designers
+    - client-eng-security
+- ### IBM Sales
+    -
