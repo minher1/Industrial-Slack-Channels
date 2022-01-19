@@ -7,7 +7,7 @@
     - [client-engineering-devops](https://americas-tech-sales.slack.com/archives/C023WC39GUQ)
     - [client-eng-americas](https://americas-tech-sales.slack.com/archives/C01N8RTE81F)
     - [client-eng-cloud-engineers](https://americas-tech-sales.slack.com/archives/C01MZM3AS8L)
-    - client-eng-industry-mkt
+    - [client-eng-industry-mkt](https://americas-tech-sales.slack.com/archives/C02TCP8CYNQ)
     - client-engineering-ww
     - ibm-account-planning
     - industry-tech-sales-team
