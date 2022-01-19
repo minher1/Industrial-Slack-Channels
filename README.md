@@ -20,4 +20,4 @@
     - [client-eng-designers](https://americas-tech-sales.slack.com/archives/C01MH7E5BFC)
     - [client-eng-security](https://americas-tech-sales.slack.com/archives/C0219JQAD24)
 - ### IBM Sales
-    -
+    
