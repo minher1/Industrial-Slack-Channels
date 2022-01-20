@@ -20,5 +20,6 @@
     - [client-eng-designers](https://americas-tech-sales.slack.com/archives/C01MH7E5BFC)
     - [client-eng-security](https://americas-tech-sales.slack.com/archives/C0219JQAD24)
     - [engage-feedback](https://americas-tech-sales.slack.com/archives/C0109UWK5QW)
+    - [Linkedin-Sales-Navigator](https://americas-tech-sales.slack.com/archives/C01D3V6DTT6)
 - ### IBM Sales
     
