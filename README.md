@@ -19,6 +19,6 @@
     - [client-eng-data-ai](https://americas-tech-sales.slack.com/archives/C01MCR4JW87)
     - [client-eng-designers](https://americas-tech-sales.slack.com/archives/C01MH7E5BFC)
     - [client-eng-security](https://americas-tech-sales.slack.com/archives/C0219JQAD24)
-    - [#engage-feedback] (https://americas-tech-sales.slack.com/archives/C0109UWK5QW)
+    - [engage-feedback] (https://americas-tech-sales.slack.com/archives/C0109UWK5QW)
 - ### IBM Sales
     
